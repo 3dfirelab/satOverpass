@@ -52,3 +52,7 @@ Latest tle file used: ../tle/tle_2025-07-11_1352.txt
 29     FOREST-2 2025-07-12 09:38:32.519839+00:00   29.185529
 30     FOREST-2 2025-07-12 11:18:08.965756+00:00   69.719002
 ```
+
+
+# FOR IMPROVEMEMT.
+1. correct the view angle of sentinel3 to take into accoun its conical scanning method
