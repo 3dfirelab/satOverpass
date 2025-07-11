@@ -1,4 +1,4 @@
-To get satellite overpass at a given location.
+To get satellite overpass at a given location. It uses the TLE data from [https://celestrak.org](https://celestrak.org)
 
 The script `main.py` is set to return the location of 
 - SENTINEL-3A
